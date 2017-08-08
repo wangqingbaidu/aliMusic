@@ -1,7 +1,7 @@
 # aliMusic
 天池阿里音乐流行趋势预测大赛具体详解见我的blog
 
-[http://www.wangqingbaidu.cn/](http://www.wangqingbaidu.cn/article/alimusic1471161131.html)
+[http://www.wangqingbaidu.cn/](http://blog.csdn.net/wangqingbaidu/article/details/52619148)
 
 此项目中的gen_XX_features均为初赛的思路，仅提供参考（套路方法成绩一般）。
 
