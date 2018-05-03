@@ -16,7 +16,7 @@ CSDN地址：[http://blog.csdn.net/wangqingbaidu](http://blog.csdn.net/wangqingb
 
 models里面的`new_songs_incr.py`以及`artist_play_cycle.py`分别对应于复赛模型的`NSI`,`OST`。这个是我们复赛的全部数据，大家可以fork一下我的代码，把数据库导入，修改一下，models里面的new_songs_incr.py的67行就可以直接跑。同样artist_play_cycle.py也可以直接跑的。
 
-![](http://i2.buimg.com/567571/63f05c28e4867cbe.png)
+![](db.png)
 
 数据下载链接：链接：http://pan.baidu.com/s/1gfAxxSn 密码：63oo
 
